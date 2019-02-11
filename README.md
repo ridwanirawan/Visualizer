@@ -1,0 +1,2 @@
+# Visualizer
+Music Visualizer installer
