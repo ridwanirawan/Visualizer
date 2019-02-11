@@ -1,0 +1,17 @@
+echo installing music visualizer...
+pkg install toilet
+pkg install figlet
+pkg install mpd
+pkg install ncmpcpp
+clear
+figlet -f future "Visualizer"
+figlet -f future "installed"
+echo SUBSCRIBE www.youtube.com/ridwanirawan
+echo
+echo
+echo tutorial menggunakannya? lihat di
+echo www.youtube.com/ridwanirawan
+echo
+echo
+echo [!] buka music visualizer sekarang?
+echo [!] ketik bash y untuk memulai
