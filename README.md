@@ -1,3 +1,3 @@
 # Visualizer
-Music Visualizer installer
-tutorial? www.youtube.com/ridwanirawan
+this is fuckin' cool <h>MUSIC PLAYER ON TERMUX</h>
+here for tutorial www.youtube.com/ridwanirawan
