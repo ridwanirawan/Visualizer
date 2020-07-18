@@ -1,3 +1,5 @@
 # Visualizer
-this is fuckin' cool <h>MUSIC PLAYER ON TERMUX</h>
-here for tutorial www.youtube.com/ridwanirawan
+pkg install python2
+cd Visualizer
+python2 sporti.py
+
